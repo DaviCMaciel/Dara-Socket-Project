@@ -1,5 +1,3 @@
-
-
 public class Tabuleiro {
     // Constantes usadas para representar o estado de cada célula do tabuleiro
     public static final int VAZIO = 0;
